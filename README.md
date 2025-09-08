@@ -4,7 +4,6 @@
 
 <h1 align="center">
     Hello! I am Vladyslav Karakai!
-    <span>&#x270C;&#xFE0F;</span>
 </h1>
 
 
@@ -15,7 +14,6 @@
 </p>
 <p>
     Living in Kyiv, Ukraine
-    <span>&#x1F1FA;&#x1F1E6;</span> 
 </p>
 <p>
     Also I love books reading))
