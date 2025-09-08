@@ -1,5 +1,5 @@
 <div align="center">
-<img width="150" height="150" style="border: 7px solid #364789; border-radius: 100px;" src="https://avatars.githubusercontent.com/u/113354711?v=4" />
+<img width="150" height="150" style="border: 7px solid #1888BF; border-radius: 100px;" src="https://avatars.githubusercontent.com/u/113354711?v=4" />
 </div>
 
 <h1 align="center">
@@ -16,7 +16,7 @@
     Living in Kyiv, Ukraine
 </p>
 <p>
-    Also I love books reading))
+    I also love reading books))
 </p>
 
 
@@ -82,25 +82,20 @@
 
 <h2 align="center">GitHub Statistics</h2>
 
-<table align="center">
-    <tr>
-        <td colspan=2 align="center">
-            <img src="http://github-readme-streak-stats.herokuapp.com?user=Karakay-V&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Viktor Svertoka GitHub Readme Streak Stats" />
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=Karakay-V&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent" alt="GitHub Profile Stats" />
-        </td>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karakay-V&langs_count=6&theme=transparent" alt="Most Used Languages"/>
-        </td>
-    </tr>
-</table>
-
-
-<h2 align="center">Roadmap Stats</h2>
-
-<div align="center">
-    <img loading="lazy" width="60%" src="https://roadmap.sh/card/wide/643f8646e27257737491e7fb?variant=dark&roadmaps=java%2Cdevops%2Cbackend%2Clinux" alt="roadmap.sh"/>
+<div style="display: flex; align-items: flex-start; align: center">
+    <table align="center">
+        <tr>
+            <td colspan=2 align="center">
+                <img src="https://github-readme-streak-stats.herokuapp.com?user=Karakay-V&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Viktor Svertoka GitHub Readme Streak Stats" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img src="https://github-readme-stats.vercel.app/api?username=Karakay-V&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Profile Stats" />
+            </td>
+            <td>
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karakay-V&langs_count=6&theme=transparent&hide_border=true" alt="Most Used Languages"/>
+            </td>
+        </tr>
+    </table>
 </div>
