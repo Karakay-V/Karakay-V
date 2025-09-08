@@ -1,5 +1,5 @@
 <div align="center">
-<img width="150" height="150" style="border: 7px solid #1888BF; border-radius: 100px;" src="https://avatars.githubusercontent.com/u/113354711?v=4" />
+    <img width="100%" src="./assets/pond.gif" alt="River gif" />
 </div>
 
 <h1 align="center">
