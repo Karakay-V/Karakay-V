@@ -94,12 +94,7 @@
                 <img src="https://github-readme-stats.vercel.app/api?username=Karakay-V&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Profile Stats" />
             </td>
             <td>
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karakay-V&layout=donut-vertical&langs_count=6&theme=transparent&hide_border=true" alt="Most Used Languages"/>
-            </td>
-        </tr>
-        <tr>
-            <td colspan=2 align="center">
-                <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Karakay-V&layout=compact&theme=transparent&hide_border=true" alt="WakaTime" />
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karakay-V&layout=donut-vertical&langs_count=10&theme=transparent&hide_border=true" alt="Most Used Languages"/>
             </td>
         </tr>
     </table>
