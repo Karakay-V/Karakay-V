@@ -91,7 +91,7 @@
         </tr>
         <tr>
             <td>
-                <img src="https://github-readme-stats.vercel.app/api?username=Karakay-V&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Profile Stats" />
+                <img src="https://github-readme-stats.vercel.app/api?username=Karakay-V&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&rank_icon=github&theme=transparent&hide_border=true" alt="GitHub Profile Stats" />
             </td>
             <td>
                 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karakay-V&langs_count=6&theme=transparent&hide_border=true" alt="Most Used Languages"/>
