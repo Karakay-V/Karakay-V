@@ -86,15 +86,15 @@
     <table align="center">
         <tr>
             <td colspan=2 align="center">
-                <img src="https://github-readme-streak-stats.herokuapp.com?user=Karakay-V&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Viktor Svertoka GitHub Readme Streak Stats" />
+                <img alt="GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com?user=Karakay-V&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" />
             </td>
         </tr>
         <tr>
             <td>
-                <img src="https://github-readme-stats.vercel.app/api?username=Karakay-V&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&rank_icon=github&theme=transparent&hide_border=true" alt="GitHub Profile Stats" />
+                <img alt="GitHub Profile Stats" src="https://github-readme-stats.vercel.app/api?username=Karakay-V&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&rank_icon=github&theme=transparent&hide_border=true" />
             </td>
             <td>
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karakay-V&layout=donut-vertical&langs_count=10&theme=transparent&hide_border=true" alt="Most Used Languages"/>
+                <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karakay-V&layout=donut-vertical&langs_count=10&theme=transparent&hide_border=true" />
             </td>
         </tr>
     </table>
