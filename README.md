@@ -2,6 +2,12 @@
     <img width="100%" src="./assets/pond.gif" alt="River gif" />
 </div>
 
+<div align="left">
+    <a href="https://open.spotify.com/user/31qk2fo265dkz6patqdowchiirla?si=a168ac798e1848de" target="_blank">
+        <img height="80" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31qk2fo265dkz6patqdowchiirla&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=39A885&bar_color_cover=false" alt="Listen with me on Spotify" />
+    </a>
+</div>
+
 <h1 align="center">
     Hello! I am Vladyslav Karakai!
 </h1>
